@@ -60,6 +60,9 @@ tmp/
 local.properties
 .loadpath
 .factorypath
+*.iml
+*.mvn
+*.cmd
 
 ##############################
 ## NetBeans
