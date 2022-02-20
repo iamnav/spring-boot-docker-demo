@@ -13,11 +13,11 @@ docker build -t springboot-docker-demo:latest .
 ```
 docker images
 ```
-5. docker run -p 8080:8080 springboot-docker-demo
+5. Run the built docker image
+```
+docker run -p 8080:8080 springboot-docker-demo
 ```
 
 
 ## Reference video
-```
 https://www.youtube.com/watch?v=RVIbMuNs1aw
-```
